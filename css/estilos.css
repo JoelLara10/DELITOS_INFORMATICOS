@@ -1,0 +1,19 @@
+body {
+    background:#000000;
+    color:#fff;
+    width: 80%;
+}
+h2{
+    font-size: 30px;
+    color: red;
+}
+h1{
+    color: royalblue;
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+
+
+/* comentario */
